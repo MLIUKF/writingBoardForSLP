@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>WritingPad.qml</file>
+        <file>mouseIcon.png</file>
+        <file>DrawBoard.qml</file>
+    </qresource>
+</RCC>
